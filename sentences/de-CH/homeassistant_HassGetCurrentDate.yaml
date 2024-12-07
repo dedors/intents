@@ -3,6 +3,6 @@ intents:
   HassGetCurrentDate:
     data:
       - sentences:
-          - "(<what_is>|Säg mer) (üses|(ds|z)[ (aktuell(e|ä)|hütige)]) Datum"
-          - "(<what_is>) hüt für[n] e Tag"
-          - "Weles Datum hei[ ]mer[ (itze|hüt)]"
+          - "(<what_is>|S[ä|a]g (m[er|r|ir])) [s|(unser|üses|(ds|z)[ (aktuell(e|ä)|hütige)])] Datum [vo hüt]"
+          - "(<what_is>|Was (hei|hä[nd|mer])[ ](m[er|ir|r])) hüt für[n|e] [e] Tag"
+          - "Weles Datum (hei|hä[nd|mer])[ ](m[er|ir|r])[ (itze|hüt)]"
